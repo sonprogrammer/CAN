@@ -1,4 +1,7 @@
 # Wrongnote
+The name is "CAN," which is short for "Check Again Note."
+
+
 
 ![스크린샷 2024-05-20 19 05 43](https://github.com/sonprogrammer/edu2/assets/97154156/3ed3f21e-4ed2-4bd1-841f-90de840fa22c)
 
